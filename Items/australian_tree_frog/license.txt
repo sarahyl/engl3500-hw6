@@ -1,0 +1,11 @@
+Model Information:
+* title:	Australian Tree Frog
+* source:	https://sketchfab.com/3d-models/australian-tree-frog-bb554ccf931041629f710d4fed6edcce
+* author:	laurapenwell (https://sketchfab.com/laurapenwell)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Australian Tree Frog" (https://sketchfab.com/3d-models/australian-tree-frog-bb554ccf931041629f710d4fed6edcce) by laurapenwell (https://sketchfab.com/laurapenwell) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Black Cat
+* source:	https://sketchfab.com/3d-models/black-cat-8d09d2fbabab443c9b451b3d2a3048f0
+* author:	Cabritta (https://sketchfab.com/Cabritta)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Black Cat" (https://sketchfab.com/3d-models/black-cat-8d09d2fbabab443c9b451b3d2a3048f0) by Cabritta (https://sketchfab.com/Cabritta) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

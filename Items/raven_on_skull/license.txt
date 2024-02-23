@@ -1,0 +1,11 @@
+Model Information:
+* title:	Raven On Skull
+* source:	https://sketchfab.com/3d-models/raven-on-skull-ddf09ffffee44391b871e84e2492974a
+* author:	David Wigforss (https://sketchfab.com/dwigfor)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Raven On Skull" (https://sketchfab.com/3d-models/raven-on-skull-ddf09ffffee44391b871e84e2492974a) by David Wigforss (https://sketchfab.com/dwigfor) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
