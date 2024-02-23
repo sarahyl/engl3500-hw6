@@ -68,25 +68,26 @@ Do you have any other animals?
 * No, that's all.
     Just you and your <>
     {
+    - cat_num==0: nonexistant cat
     - cat_num==1: cat
     - else:
         {cat_num} cats
     }
     <> and your <> 
     {
+    - raven_num==0: nonexistant raven
     - raven_num==1: raven
     - else:
         {raven_num} ravens
     }
     <> and your <> 
     {
+    - frog_num==0: nonexistant frog
     - frog_num==1: frog.
     - else:
         {frog_num} frogs.
     }
     -> customization
-
-//shuffle -> can have multiple pets, shuffle through types of frogs/size of ravens/colors of cats. you can keep collecting pets. variable = number of each
 
 == customization ==
 = clothes
@@ -127,17 +128,17 @@ You look around your small, but admittedly cluttered house and wonder where they
 
 * You check their favorite window sill [] but you don't see them perched there.
     -> look_for_them
-* You check their bed[].
-    -> sick_familiar
 * You check your collection of plants in the corner of your living room[], which they sometimes like to hang out with, but your familiar is nowhere to be seen.
     -> look_for_them
+* -> sick_familiar
     
 = sick_familiar
+You finally decide to check if they're still sleeping.
+
 There they are! Still in bed, long past their usual waking time. They're usually bopping around the house by now.
 
 After a quick check, it becomes apparent that they'll fallen ill during the night. Oh dear. After setting out some food and water for them, you decide to put aside whatever plans you had for the day and set out to make a healing potion that'll speed up their recovery.
 
-You give your familiar {~
 
 
 -> END

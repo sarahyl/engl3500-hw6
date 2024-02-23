@@ -1,8 +1,7 @@
-[gd_scene load_steps=32 format=3 uid="uid://kohe88iaptdn"]
+[gd_scene load_steps=31 format=3 uid="uid://kohe88iaptdn"]
 
-[ext_resource type="Texture2D" uid="uid://7t1jplhtekqc" path="res://textures/patterned_brick_floor_diff_4k.png" id="1_66pai"]
-[ext_resource type="Texture2D" uid="uid://cjmc3gg1l7lyq" path="res://textures/patterned_brick_floor_nor_gl_4k.png" id="2_ivujv"]
-[ext_resource type="Texture2D" uid="uid://b3kco20vbm74m" path="res://textures/patterned_brick_floor_rough_4k.png" id="3_dfckc"]
+[ext_resource type="Texture2D" uid="uid://crl276gqbtcn0" path="res://textures/patterned_brick_floor_4k/textures/patterned_brick_floor_diff_4k.jpg" id="1_3sdj3"]
+[ext_resource type="Texture2D" uid="uid://brtab1xp7c5wv" path="res://textures/patterned_brick_floor_4k/textures/patterned_brick_floor_nor_gl_4k.jpg" id="2_kcwa3"]
 [ext_resource type="Texture2D" uid="uid://cubgrmnq2sura" path="res://textures/wall textures/beam_wall_01_diff_4k.jpg" id="4_7pgu0"]
 [ext_resource type="Texture2D" uid="uid://c161ypla1fdfe" path="res://textures/wall textures/beam_wall_01_nor_gl_4k.jpg" id="5_fyout"]
 [ext_resource type="Texture2D" uid="uid://bym3or5emis4t" path="res://textures/wall textures/beam_wall_01_rough_4k.jpg" id="6_yneao"]
@@ -18,11 +17,10 @@
 
 [sub_resource type="StandardMaterial3D" id="StandardMaterial3D_bsu8a"]
 albedo_color = Color(0.466667, 0.466667, 0.466667, 1)
-albedo_texture = ExtResource("1_66pai")
-roughness_texture = ExtResource("3_dfckc")
+albedo_texture = ExtResource("1_3sdj3")
 normal_enabled = true
-normal_texture = ExtResource("2_ivujv")
-uv1_scale = Vector3(5, 5, 5)
+normal_texture = ExtResource("2_kcwa3")
+uv1_scale = Vector3(7, 7, 7)
 
 [sub_resource type="PlaneMesh" id="PlaneMesh_vw8vk"]
 material = SubResource("StandardMaterial3D_bsu8a")
