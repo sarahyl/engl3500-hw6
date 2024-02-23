@@ -94,7 +94,7 @@ Do you have any other animals?
 Fashion is very important to witches. What is your signature look?
 
 * All black from head to toe, and everything is sparkly, like the night sky. Blinding to the eye. Like a disco ball.
-* Hot pink witch's hat decorated with giant daisies. Hot pink robes to match, with the biggest, flowiest sleeves you've ever seen.
+* Hot pink witch's hat decorated with giant {~daisies|peonies|chrysanthemums}. Hot pink robes to match, with the biggest, flowiest sleeves you've ever seen.
 * {animals.cat} Cat pajamas!
 * {animals.raven} Raven pajamas!
 * {animals.frog} Frog pajamas!
@@ -139,6 +139,9 @@ There they are! Still in bed, long past their usual waking time. They're usually
 
 After a quick check, it becomes apparent that they'll fallen ill during the night. Oh dear. After setting out some food and water for them, you decide to put aside whatever plans you had for the day and set out to make a healing potion that'll speed up their recovery.
 
+You let your 
+
+[to be continued probably in another inky assignment]
 
 
 -> END
